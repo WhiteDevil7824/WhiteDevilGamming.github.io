@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#head{
+    text-align: center;
+    box-sizing: border-box;
+    max-height: 120px;
+    background-color: blue;
+}
+#head h1{
+    padding: 50px;
+    font-size: 40px;
+    position: relative;
+}
+#head img{
+    width: 250px;
+    padding: 10px 0px 0px 10px;
+    position: relative;
+}
+div{
+    background-color: black;
+    height: 3590px;
+    position: relative;  
+}
+button{
+    margin: 10px;
+    background-color: cyan;
+    padding: 10px;
+    font-style: italic;
+}
+b{
+    padding: 30px;
+}
