@@ -11,19 +11,19 @@
 #head h1{
     padding: 50px;
     font-size: 40px;
-    position: relative;
+    position: static;
 }
 #head img{
     width: 250px;
     float: right;
     padding: 10px 0px 0px 10px;
-    position: relative;
+    position: static;
 }
 nav{
     height: 780px;
     background-color:cyan;
     box-shadow: 0 10px 15px rgba(0,0,0,0,1);
-    position: relative;
+    position: static;
 }
 nav ul{
     padding: 0;
@@ -31,11 +31,11 @@ nav ul{
     float:left;
     margin-right: 200px;
     background-color: blue;
-    position: relative;
+    position: static;
 }
 nav ul li{
     background: black;
-    position: relative;
+    position: static;
     list-style: none;
     display: inline-block;
 }
@@ -47,7 +47,7 @@ nav ul li a{
     text-decoration: none;
     line-height: 60px;
     font-size: 20px;
-    position: relative;
+    position: static;
 }
 nav ul li a:hover{
     background: cyan;
